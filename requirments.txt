@@ -1,0 +1,8 @@
+deepface==0.0.68
+numpy==1.21.4
+opencv-python==4.5.2.54
+retina-face==0.0.5
+retinaface==0.0.6
+tensorboard==2.1.1
+tensorflow==2.1.0
+tensorflow-estimator==2.1.0
